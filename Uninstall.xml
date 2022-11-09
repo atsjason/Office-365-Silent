@@ -1,0 +1,1 @@
+<Configuration><Remove All="TRUE" /><Display Level="None" AcceptEULA="FALSE" /><Property Name="FORCEAPPSHUTDOWN" Value="TRUE"/><Logging Level="Standard" Path="C:\WINDOWS\TEMP\Office365UninstallLog" /></Configuration>
